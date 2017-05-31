@@ -22,3 +22,6 @@
 [submodule "ribbonTunnelWithTexture"]
 	path = ribbonTunnelWithTexture
 	url = https://github.com/fishkingsin/ribbonTunnelWithTexture.git
+[submodule "sprialExample"]
+	path = sprialExample
+	url = https://github.com/fishkingsin/sprialExample.git
