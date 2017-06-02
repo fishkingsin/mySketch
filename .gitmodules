@@ -1,27 +1,27 @@
 [submodule "patternExample001"]
 	path = patternExample001
-	url = https://github.com/fishkingsin/patternExample001.git
+	url = git@github.com:fishkingsin/patternExample001.git
 [submodule "patternExample001_VBO"]
 	path = patternExample001_VBO
-	url = https://github.com/fishkingsin/patternExample001_VBO.git
+	url = git@github.com:fishkingsin/patternExample001_VBO.git
 [submodule "patternExample002"]
 	path = patternExample002
-	url = https://github.com/fishkingsin/patternExample002.git
+	url = git@github.com:fishkingsin/patternExample002.git
 [submodule "patternExample003"]
 	path = patternExample003
-	url = https://github.com/fishkingsin/patternExample003.git
+	url = git@github.com:fishkingsin/patternExample003.git
 [submodule "patternWithTexturedSphere"]
 	path = patternWithTexturedSphere
-	url = https://github.com/fishkingsin/patternWithTexturedSphere.git
+	url = git@github.com:fishkingsin/patternWithTexturedSphere.git
 [submodule "ribbonTunnel"]
 	path = ribbonTunnel
-	url = https://github.com/fishkingsin/ribbonTunnel.git
+	url = git@github.com:fishkingsin/ribbonTunnel.git
 [submodule "ribbonTunnelWithParticle"]
 	path = ribbonTunnelWithParticle
-	url = https://github.com/fishkingsin/ribbonTunnelWithParticle.git
+	url = git@github.com:fishkingsin/ribbonTunnelWithParticle.git
 [submodule "ribbonTunnelWithTexture"]
 	path = ribbonTunnelWithTexture
-	url = https://github.com/fishkingsin/ribbonTunnelWithTexture.git
+	url = git@github.com:fishkingsin/ribbonTunnelWithTexture.git
 [submodule "sprialExample"]
 	path = sprialExample
-	url = https://github.com/fishkingsin/sprialExample.git
+	url = git@github.com:fishkingsin/sprialExample.git
